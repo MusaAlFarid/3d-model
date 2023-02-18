@@ -1,11 +1,9 @@
-# Professional Three JS
-[![Preview](https://i.imgur.com/tkySMZ6.png)](https://www.youtube.com/watch?v=Gk_84KzeQlI)
-
 ## Setup
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
-``` bash
+```bash
 # Install dependencies (only the first time)
 npm install
 
